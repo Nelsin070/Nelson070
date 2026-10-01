@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Nelson070
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Nelson 👋
 
-<!---
-Nelson070/Nelson070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-end developer from Imperatriz, Brazil. I build React web apps with Tailwind CSS and Supabase, from an educational platform to internal business tools.
+
+Tech I work with
+
+React · JavaScript · HTML · CSS · Tailwind CSS · Bootstrap · Supabase · Python · Git
+
+Featured projects
+[Aritmática Gabaritando]([repo link]): study platform with landing page, student dashboard, admin area and class/login flow. React + Supabase. [Live demo]([demo link])
+[Maquisul Locação]([repo link]): CRM portal to manage equipment rental referrals. React + Supabase. [Live demo]([demo link])
+[Customer Satisfaction Dashboard]([repo link]): login, filters, charts, AI chat assistant and Excel export. HTML + JavaScript. [Live demo]([demo link])
+[Fecoimp Trade Fair Game]([repo link]): interactive game for a trade fair stand. [Live demo]([demo link])
